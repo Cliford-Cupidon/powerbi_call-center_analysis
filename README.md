@@ -29,7 +29,7 @@ L’objectif est d’identifier des insights business à partir des données et 
 ![Revenue Trend](revenue-trend.png)  
 ![Calls vs Revenue](calls-vs-revenue-correlation.png)  
 ![Revenue by Call Type](revenue-by-call-type.png)
-
+![Sales Analysis Report](sales-analysis-report.png)
 ---
 
 ## 📈 Principaux résultats
@@ -61,4 +61,5 @@ Python | SQL | Power BI | Excel
 
 LinkedIn : https://www.linkedin.com/in/ton-profil  
 GitHub : https://github.com/Cliford-Cupidon
+
 
